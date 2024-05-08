@@ -55,7 +55,7 @@ finish() {
     echo "Finalizing"
     if [ $Autostart = true ]; then
         mkdir -p /home/$username/.config/autostart
-        link="https://youtu.be/d9ui27vVePY?si=TfVDVQOd0VHjUt_b"
+        link="https://www.youtube.com/@epic_miner"
         colab_autostart="[Desktop Entry]
 Type=Application
 Name=Colab
