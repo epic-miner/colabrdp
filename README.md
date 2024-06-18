@@ -7,7 +7,7 @@ This repository contains a bash script to automate the setup of a Chrome Remote 
 - Installs Chrome Remote Desktop
 - Installs XFCE desktop environment
 - Installs Google Chrome
-- Configures Chrome Remote Desktop with a specified PIN
+- Configures Chrome Remote Desktop with a specified PIN 123456
 - Sets up autostart for a predefined YouTube link
 
 ## Requirements
