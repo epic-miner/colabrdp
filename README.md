@@ -66,7 +66,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or suggestions, please open an issue in the repository or contact the maintainer at (mailto:epicminer771@gmail.com).
+For any questions or suggestions, please open an issue in the repository or contact the maintainer at epicminer771@gmail.com
 
 ---
 
